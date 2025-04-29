@@ -1,2 +1,2 @@
-# Comprehensive-Anomaly-Detection-Using-SQL
+# Comprehensive Anomaly Detection - SQL
 Developed 20 SQL queries to identify anomalies across financial transactions, operational processes, and customer interactions. These queries detect irregularities such as unusual financial activities, process deviations, and atypical customer behavior. The project focuses on outlier detection and identifying patterns in the data, providing actionable insights that enhance data-driven decision-making, ensure operational efficiency, enhance fraud detection, maintain financial integrity, and improve customer experience.
